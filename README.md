@@ -13,6 +13,8 @@
 
 ## 🚀 Some Projects I've Worked On
 
+*My main projects are not yet accessible as they are in the process of being published*
+
 ### ✅[scRNA-seq analysis - Migratory ASC Subpopulation Analysis]
 Developed advanced bioinformatics approaches to identify and characterize a subpopulation of migratory **Adipose Stem Cells (ASCs)** during **muscle regeneration**. This project focused on determining the regulatory factors of ASC activation and migration and proposing actionable biomarkers for applied research.
 
