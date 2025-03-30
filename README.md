@@ -26,7 +26,7 @@ Developed advanced bioinformatics approaches to identify and characterize a subp
 ### ✅[HPC-Optimized SCENIC Pipeline for Gene Regulatory Network Prediction]
 Developed a scalable **Nextflow pipeline** on **HPC** (High-Performance Computing) environments that do not provide access to containers (e.g., **Docker**) for implementation of **SCENIC** to predict key **gene regulatory networks**
 
-### ✅[scRNA-seq and RNA-seq analysis - expression kinetic in the different organs and celltypes during aging in mouse and human atlases]
+### ✅[scRNA-seq and RNA-seq analysis - Clustering gene expression kinetic in the different organs and celltypes during aging in mouse and human atlases]
 Developed a pipeline to analyze scRNA-seq data from both **mouse and human atlases** for a collaboration, enabling the **clustering** of organs and cell types based on specific gene expression kinetics across aging, and visualizing the results to provide actionable insights.
 - Processed and analyzed data from **300,000+ cells** from **23 organs** from mouse atlas (scRNA-seq) and **17329 transcriptomes** from **49 tissues** of **948 donors** from human (bulkRNA-seq) to identify similar gene expression kinetics profiles among tissues and celltypes through aging.
 
