@@ -20,7 +20,7 @@ Developed advanced bioinformatics approaches to identify and characterize a subp
 - Used **machine learning methods** such as **dimensionality reduction (PCA, UMAP)** and **unsupervised clustering (KNN)** to structure large scRNA-seq datasets.
 - Reconstructed **cellular trajectories** using **PAGA Tree** and **Palantir**, and modeled velocity with **Velocyto** to infer ASC migratory dynamics.
 - Integrated **CellChat** and **Nichenet** to infer intercellular communication networks and identify the cell type driving ASC activation.
-- Built a **supervised classification model** (logistic regression, random forest, **XGBoost**) to classify ASCs within **FAPs** with **80% recall** despite an imbalanced dataset (2% ASCs).
+- Built a **supervised classification model** (logistic regression, random forest, XGBoost) to classify ASCs within FAPs with **80% recall** despite an **imbalanced dataset (2% ASCs)**.
 - Projected experimental data onto a **human adipose tissue atlas** to enhance the transferability of results across species.
 
 ### ✅[HPC-Optimized SCENIC Pipeline for Gene Regulatory Network Prediction]
