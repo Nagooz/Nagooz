@@ -21,7 +21,7 @@ Developed advanced bioinformatics approaches to identify and characterize a subp
 - Reconstructed **cellular trajectories** using **PAGA Tree** and **Palantir**, and modeled velocity with **Velocyto** to infer ASC migratory dynamics.
 - Integrated **CellChat** and **Nichenet** to infer intercellular communication networks and identify the cell type driving ASC activation.
 - Built a **supervised classification model** (logistic regression, random forest, XGBoost) to classify ASCs within FAPs with **80% recall** despite an **imbalanced dataset (2% ASCs)**.
-- Projected experimental data onto a **human adipose tissue atlas** to enhance the transferability of results across species.
+- Projected our mouse data onto a **human adipose tissue atlas** to enhance the transferability of results across species.
 
 ### ✅[HPC-Optimized SCENIC Pipeline for Gene Regulatory Network Prediction]
 Developed a scalable **Nextflow pipeline** on **HPC** (High-Performance Computing) environments that do not provide access to containers (e.g., **Docker**) for implementation of **SCENIC** to predict key **gene regulatory networks**
