@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Margaux !</h2>
-<h3 align="center"><strong>PhD in Bioinformatics | Agronomic Engineer specialized in Bioinformatics</strong></h3>
+<h3 align="center"><strong>Computational Biologist | Bioinformatician | Single-cell & Multi-omics | Biomarker discovery & Translational insights</strong></h3>
 <br/>
 
 > 💻 **Expert in Omics Data Analysis for Healthcare**  
